@@ -5,11 +5,14 @@ Flat Lime Theme for Sublime Text Editor 2, which probably would make a lot more 
 
 
 INSTALLATION GUIDE: 
+
 1. Open Sublime text and click on the menu Preferences -> Browse Packages
-12. Make a Folder for your User Themes OR Copy the theme file('FlatLime.tmTheme') into an Existing Themes Folder.
+
+2. Make a Folder for your User Themes OR Copy the theme file('FlatLime.tmTheme') into an Existing Themes Folder.
+ 
 (Default Themes are on: 'Color Scheme - Default')
 
 
-![alt tag](https://raw.github.com/hashbit/flatlimetheme/master/preview/lime.png)
+![alt tag](https://raw.github.com/hashbit/flatLime/master/preview/lime.png)
 
 Happy Coding!
