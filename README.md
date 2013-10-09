@@ -10,6 +10,6 @@ INSTALLATION GUIDE:
 (Default Themes are on: 'Color Scheme - Default')
 
 
-![alt tag](https://raw.github.com/hashbit/flatlimetheme/master/preview/lime.png)
+![alt tag](https://raw.github.com/hashbit/flatLime/master/preview/lime.png)
 
 Happy Coding!
