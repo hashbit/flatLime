@@ -54,6 +54,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<string>stippled_underline</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -211,6 +212,17 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			</dict>
 		</dict>
 		<dict>
+		    <key>name</key>
+		    <string>Tag</string>
+		    <key>scope</key>
+		    <string>meta.tag, declaration.tag</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+				<string>#42d476</string>
+		    </dict>
+		</dict>
+		<dict>
 			<key>name</key>
 			<string>Tag name</string>
 			<key>scope</key>
@@ -220,7 +232,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#a1c9d6</string>
+				<string>#42d476</string>
 			</dict>
 		</dict>
 		<dict>
@@ -233,7 +245,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#95d6aa</string>
+				<string>#4bb6a4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -370,7 +382,6 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<string>#beca67</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>scope</key>
 			<string>constant.numeric.line-number.find-in-files - match</string>
